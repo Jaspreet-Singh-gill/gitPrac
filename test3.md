@@ -1,1 +1,1 @@
-this is the text 3 file so i am going to test merge conflicts here
+i added new content to this file to see how github will work now
